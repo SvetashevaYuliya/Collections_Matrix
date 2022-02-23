@@ -1,0 +1,12 @@
+C:\Users\User\source\Collections\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\Users\User\source\Collections\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\Users\User\source\Collections\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Collections\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+C:\Users\User\source\Collections\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+C:\Users\User\source\Collections\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+C:\Users\User\source\Collections\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+C:\Users\User\source\Collections\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\User\source\Collections\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\User\source\Collections\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\User\source\Collections\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\User\source\Collections\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache

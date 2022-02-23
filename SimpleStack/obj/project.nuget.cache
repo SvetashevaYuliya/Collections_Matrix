@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WzrcpGye375IIX+d2Eg2+u25KvtzY9ff2Xcwcyh9kMwICtu62/XUXsDv4lo+mmeZ1S5Ww3a8mGSx5mbJEDnqOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\Collections\\SimpleStack\\SimpleStack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

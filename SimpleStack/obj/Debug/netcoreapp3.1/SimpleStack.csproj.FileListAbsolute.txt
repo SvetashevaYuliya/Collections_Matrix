@@ -1,0 +1,13 @@
+C:\Users\User\source\Collections\SimpleStack\bin\Debug\netcoreapp3.1\SimpleStack.exe
+C:\Users\User\source\Collections\SimpleStack\bin\Debug\netcoreapp3.1\SimpleStack.deps.json
+C:\Users\User\source\Collections\SimpleStack\bin\Debug\netcoreapp3.1\SimpleStack.runtimeconfig.json
+C:\Users\User\source\Collections\SimpleStack\bin\Debug\netcoreapp3.1\SimpleStack.runtimeconfig.dev.json
+C:\Users\User\source\Collections\SimpleStack\bin\Debug\netcoreapp3.1\SimpleStack.dll
+C:\Users\User\source\Collections\SimpleStack\bin\Debug\netcoreapp3.1\SimpleStack.pdb
+C:\Users\User\source\Collections\SimpleStack\obj\Debug\netcoreapp3.1\SimpleStack.AssemblyInfoInputs.cache
+C:\Users\User\source\Collections\SimpleStack\obj\Debug\netcoreapp3.1\SimpleStack.AssemblyInfo.cs
+C:\Users\User\source\Collections\SimpleStack\obj\Debug\netcoreapp3.1\SimpleStack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Collections\SimpleStack\obj\Debug\netcoreapp3.1\SimpleStack.dll
+C:\Users\User\source\Collections\SimpleStack\obj\Debug\netcoreapp3.1\SimpleStack.pdb
+C:\Users\User\source\Collections\SimpleStack\obj\Debug\netcoreapp3.1\SimpleStack.genruntimeconfig.cache
+C:\Users\User\source\Collections\SimpleStack\obj\Debug\netcoreapp3.1\SimpleStack.csprojAssemblyReference.cache
